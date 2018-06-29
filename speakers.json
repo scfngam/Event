@@ -1,5 +1,13 @@
-{
-	"speakers":[
+{      
+	"kspeakers":[
+  {
+    "name": "Ayo Akinwolere",
+    "title": "Broadcaster and Writer",
+    "image": "ayo-akinwolere.jpg"
+  }
+ ],
+		
+	"fspeakers":[
   {
     "name": "Ayo Akinwolere",
     "title": "Broadcaster and Writer",
