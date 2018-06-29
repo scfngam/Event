@@ -1,9 +1,24 @@
 {      
 	"keynote-speakers":[
   {
-    "name": "Ayo Akinwolere",
-    "title": "Broadcaster and Writer",
-    "image": "ayo-akinwolere.jpg"
+    "name": "Kofi A. Annan",
+    "title": "Former UN Secretary-General and Nobel Peace Prize Winner",
+    "image": "kofi-annan.jpg"
+  },
+  {
+    "name": "Matteo Renzi",
+    "title": "",
+    "image": "matteo-renzi.jpg"
+  },
+  {
+    "name": "Nicolas Sarkozy",
+    "title": "",
+    "image": "nicolas-sarkozy.jpg"
+  },
+  {
+    "name": "Gerard Schroeder",
+    "title": "",
+    "image": "gerard-schroeder.jpg"
   }
  ],
 		
@@ -187,21 +202,6 @@
     "name": "Amin Rajan",
     "title": "CREATE-Research",
     "image": "amin-rajan.jpg"
-  },
-  {
-    "name": "Matteo Renzi",
-    "title": "",
-    "image": "matteo-renzi.jpg"
-  },
-  {
-    "name": "Nicolas Sarkozy",
-    "title": "",
-    "image": "nicolas-sarkozy.jpg"
-  },
-  {
-    "name": "Gerard Schroeder",
-    "title": "",
-    "image": "gerard-schroeder.jpg"
   },
   {
     "name": "Pedro Tarak",
