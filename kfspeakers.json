@@ -1,5 +1,5 @@
 {      
-	"kspeakers":[
+	"keynote-speakers":[
   {
     "name": "Ayo Akinwolere",
     "title": "Broadcaster and Writer",
@@ -7,7 +7,7 @@
   }
  ],
 		
-	"fspeakers":[
+	"featured-speakers":[
   {
     "name": "Ayo Akinwolere",
     "title": "Broadcaster and Writer",
