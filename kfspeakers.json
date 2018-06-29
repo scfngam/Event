@@ -1,0 +1,247 @@
+{      
+	"kspeakers":[
+  {
+    "name": "Ayo Akinwolere",
+    "title": "Broadcaster and Writer",
+    "image": "ayo-akinwolere.jpg"
+  }
+ ],
+		
+	"fspeakers":[
+  {
+    "name": "Ayo Akinwolere",
+    "title": "Broadcaster and Writer",
+    "image": "ayo-akinwolere.jpg"
+  },
+  {
+    "name": "Kofi A. Annan",
+    "title": "Former UN Secretary-General and Nobel Peace Prize Winner",
+    "image": "kofi-annan.jpg"
+  },
+  {
+    "name": "Nicole Bacharan",
+    "title": "Historian and Political Analyst",
+    "image": "nicole-bacharan.jpg"
+  },
+  {
+    "name": "Anne C. Bader",
+    "title": "The International Cybersecurity Dialogue",
+    "image": "anne-bader.jpg"
+  },
+  {
+    "name": "Pooneh Baghai",
+    "title": "McKinsey & Company",
+    "image": "pooneh-baghai.jpg"
+  },
+  {
+    "name": "Arnauld Blank",
+    "title": "InProcess",
+    "image": "arnauld-blanck.jpg"
+  },
+  {
+    "name": "James Bradner",
+    "title": "Novartis Institutes for BioMedical Research",
+    "image": "jay-bradner.jpg"
+  },
+  {
+    "name": "Joanna J. Bryson",
+    "title": "Associate Professor at the University of Bath and Researcher at Princeton University",
+    "image": "joanna-bryson.jpg"
+  },
+  {
+    "name": "Andrew H. Card, Jr.",
+    "title": "Former White House Chief of Staff; Chairman, National Endowment for Democracy",
+    "image": "andrew-h-card-jr.jpg"
+  },
+  {
+    "name": "Julia Chatterley",
+    "title": "Bloomberg",
+    "image": "julia-chatterley.jpg"
+  },	
+  {
+    "name": "Joseph Coughlin",
+    "title": "MIT AgeLab",
+    "image": "joseph-coughlin.jpg"
+  },
+  {
+    "name": "Bruno Crastes",
+    "title": "H2O Asset Management",
+    "image": "bruno-crastes.jpg"
+  },
+  {
+    "name": "Alistair Darling",
+    "title": "Former Chancellor of the Exchequer",
+    "image": "alistair-darling.jpg"
+  },
+  {
+    "name": "Jean-Christophe Dumont",
+    "title": "Organisation for Economic Co-operation and Development",
+    "image": "jean-chrisophe-dumont.jpg"
+  },
+  {
+    "name": "Matthieu Duncan",
+    "title": "Ostrum Asset Management",
+    "image": "matthieu-duncan.jpg"
+  },
+  {
+    "name": "Sally Eaves",
+    "title": "Forbes Technology Council",
+    "image": "sally-eaves.jpg"
+  },
+  {
+    "name": "Barney Frank",
+    "title": "Former US Congressman and co-author of the Dodd–Frank Wall Street Reform and Consumer Protection Act",
+    "image": "barney-frank.jpg"
+  },
+  {
+    "name": "Anabel Gonzalez",
+    "title": "Global Expert on Trade, Investment and Economic Development; Former Minister of Trade of Costa Rica",
+    "image": "anabel-gonzalez.jpg"
+  },
+  {
+    "name": "Ilan Graicer",
+    "title": "Entrepreneur, Cyber Security Specialist, Game Designer, Maker and Wildlife Photographer",
+    "image": "ilan-graicer.jpg"
+  },
+  {
+    "name": "Francesco Guerrera",
+    "title": "Dow Jones",
+    "image": "francesco-guerrera.jpg"
+  },
+  {
+    "name": "Aziz V. Hamzaogullari",
+    "title": "Loomis, Sayles & Company",
+    "image": "aziz-hamzaogullari.jpg"
+  },
+  {
+    "name": "David G. Herro",
+    "title": "Harris Associates",
+    "image": "david-herro.jpg"
+  },
+  {
+    "name": "David F. Lafferty",
+    "title": "Natixis Investment Managers",
+    "image": "david-lafferty.jpg"
+  },
+  {
+    "name": "Guillaume Liegey",
+    "title": "Liegey Muller Pons",
+    "image": "guillaume-liegey.jpg"
+  },
+  {
+    "name": "Rebecca Mackinnon",
+    "title": "Ranking Digital Rights, New America",
+    "image": "rebecca-mackinnon.jpg"
+  },
+  {
+    "name": "James Mackintosh",
+    "title": "The Wall Street Journal",
+    "image": "james-mackintosh.jpg"
+  },
+  {
+    "name": "Tanvi Madan",
+    "title": "The Brookings Institution",
+    "image": "tanvi-madan.jpg"
+  },
+  {
+    "name": "Marie Mcauliffe",
+    "title": "International Organization for Migration",
+    "image": "marie-mcauliffe.jpg"
+  },
+  {
+    "name": "Yascha Mounk",
+    "title": "Harvard University",
+    "image": "yascha-mounk.jpg"
+  },
+  {
+    "name": "Meghan O’Sullivan",
+    "title": "Former US Deputy National Security Advisor; Harvard University Belfer Center",
+    "image": "meghan-o'sullivan.jpg"
+  },
+  {
+    "name": "Zuriel Oduwole",
+    "title": "Filmmaker, Education Advocate and Climate Neutral Champion",
+    "image": "zuriel-oduwole.jpg"
+  },
+  {
+    "name": "Minxin Pei",
+    "title": "Claremont McKenna College",
+    "image": "minxin-pei.jpg"
+  },
+  {
+    "name": "Ann Pettifor",
+    "title": "PRIME",
+    "image": "ann-pettifor.jpg"
+  },
+  {
+    "name": "Alina Polyakova",
+    "title": "The Brookings Institution",
+    "image": "alina-polyakova.jpg"
+  },
+  {
+    "name": "Olivier Portenseigne",
+    "title": "Fundsquare",
+    "image": "olivier-portenseigne.jpg"
+  },
+  {
+    "name": "Amin Rajan",
+    "title": "CREATE-Research",
+    "image": "amin-rajan.jpg"
+  },
+  {
+    "name": "Matteo Renzi",
+    "title": "",
+    "image": "matteo-renzi.jpg"
+  },
+  {
+    "name": "Nicolas Sarkozy",
+    "title": "",
+    "image": "nicolas-sarkozy.jpg"
+  },
+  {
+    "name": "Gerard Schroeder",
+    "title": "",
+    "image": "gerard-schroeder.jpg"
+  },
+  {
+    "name": "Pedro Tarak",
+    "title": "Co-Founder, Emprendia and Sistema B | International",
+    "image": "pedro-tarak.jpg"
+  },
+  {
+    "name": "Guy Verhofstadt",
+    "title": "Former Prime Minister of Belgium; Member of the European Parliament",
+    "image": "guy-verhofstadt.jpg"
+  },
+  {
+    "name": "Chris Wallis",
+    "title": "Vaughan Nelson Investment Management",
+    "image": "chris-wallis.jpg"
+  },
+  {
+    "name": "Andrew Yan",
+    "title": "SAIF Partners",
+    "image": "andrew-yan.jpg"
+  },
+  {
+    "name": "Karl-Theodor Zu Guttenberg",
+    "title": "Former German Minister of Defense; Head of the Social Conservative Party in Germany",
+    "image": "karl-theodor-zu-guttenberg.jpg"
+  },
+  {
+    "name": "Jean Raby",
+    "title": "Natixis Investment Managers",
+    "image": "jean-raby.jpg"
+  },
+  {
+    "name": "François Riahi",
+    "title": "Natixis",
+    "image": "francois-riahi.jpg"
+  },
+  {
+    "name": "Laurent Mignon",
+    "title": "Groupe BPCE",
+    "image": "laurent-mignon.jpg"
+  }
+]
+}
