@@ -1,4 +1,5 @@
-[
+{
+	"speakers":[
   {
     "name": "Ayo Akinwolere",
     "title": "Broadcaster and Writer"
@@ -188,3 +189,4 @@
     "title": "Groupe BPCE"
   }
 ]
+}
